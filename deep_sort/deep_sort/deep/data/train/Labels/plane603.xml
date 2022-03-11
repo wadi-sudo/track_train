@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>plane603.jpg</filename>
+	<path>F:\PFE\base finale(10 classes)\video_to_img\BASE TRAIN\Airplane\train&amp;test\train\plane603.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>136</ymin>
+			<xmax>142</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>
